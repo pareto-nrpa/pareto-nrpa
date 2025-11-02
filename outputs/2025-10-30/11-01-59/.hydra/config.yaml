@@ -1,0 +1,11 @@
+seed: 308
+device: cuda:0
+log_dir: runs
+problem:
+  name: mo_tsp
+  n_cities: 30
+  n_objectives: 2
+search:
+  algorithm: pareto_local_search
+  n_iter: 103461
+  initial_population_size: 100

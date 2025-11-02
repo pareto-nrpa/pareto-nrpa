@@ -1,0 +1,8 @@
+defaults:
+  - _self_
+  - problem: mo_tsp
+  - search: pareto_nrpa
+
+seed: 308
+device: cuda:0
+log_dir: runs/pareto_nrpa

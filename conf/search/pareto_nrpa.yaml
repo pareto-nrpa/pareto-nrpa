@@ -1,0 +1,8 @@
+algorithm: pareto_nrpa
+level: 3
+n_iter: 30
+alpha: 0.5
+softmax_temperature: 1.0
+limited_repetitions: 4
+n_policies: 4
+progressbar: True

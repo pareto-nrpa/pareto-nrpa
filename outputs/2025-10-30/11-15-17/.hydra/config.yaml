@@ -1,0 +1,15 @@
+seed: 308
+device: cuda:0
+log_dir: runs/pareto_nrpa
+problem:
+  name: mo_tsp
+  n_cities: 30
+  n_objectives: 2
+search:
+  algorithm: pareto_nrpa
+  level: 3
+  n_iter: 46
+  alpha: 1
+  softmax_temperature: 1.0
+  limited_repetitions: 4
+  n_policies: 4

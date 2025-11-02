@@ -64,3 +64,8 @@ If you use Pareto-NRPA in a research publication, please consider citing the ori
 	pages = {4848--4855},
 }
 ```
+## Authors
+
+- Noé Lallouet
+- Tristan Cazenave
+- Cyrille Enderli
